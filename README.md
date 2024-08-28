@@ -1,6 +1,6 @@
 # Hi there, I'm Pearl 👋
 
-I'm a passionate web developer and a student at IGDTUW, Delhi. I love creating beautiful and functional websites and diving into new and enticing technologies.
+I'm a passionate web developer and a second year student at IGDTUW, Delhi. I love creating beautiful and functional websites and diving into new and enticing technologies. 
 
 ## 🔧 Technologies & Tools
 - HTML, CSS, JavaScript
