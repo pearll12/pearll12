@@ -19,9 +19,6 @@ I'm a passionate web developer and a second year student at IGDTUW, Delhi. I lov
 ## 🎓 Education
 - B.Tech in Computer Science Engineering, IGDTUW
 
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/pearll12/)
-- [Twitter](https://twitter.com/pearll12)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
