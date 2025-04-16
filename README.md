@@ -10,10 +10,9 @@ I'm a passionate web developer and a second year student at IGDTUW, Delhi. I lov
 
 ## 📚 Currently Learning
 - Backend Development
-- IBM watsonx.ai
 
 ## 🌟 Projects
-- [Portfolio Website](https://github.com/pearll12/portfolio-website)
+- [Ehsaas](https://github.com/pearll12/Ehsaas)
 - [Rock Paper Scissors Game](https://github.com/pearll12/rock-paper-scissors)
 
 ## 🎓 Education
